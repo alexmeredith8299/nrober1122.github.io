@@ -3,12 +3,6 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/
-    
-  - title: "CommLab"
-    url: /commlab/
-
   - title: "CV"
     url: /cv/
 

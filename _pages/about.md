@@ -15,24 +15,25 @@ homepage_feature_row:
     title: "Control of Underwater Vehicles"
 ---
 
-I am currently a PhD student in [MIT's Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) working in the [Aerospace Controls Lab](https://acl.mit.edu/) with Professor Jonathan How. 
-I got my SM degree from MIT in 2023 and my Bachelor's degree in Mechanical Engineering from the [University of Iowa](https://me.engineering.uiowa.edu/) in 2021.
+I am currently a fifth-year PhD student in [MIT's Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) working in the [Aerospace Controls Lab](https://acl.mit.edu/) with Professor Jonathan How. 
+I got my SM and SB degrees in Aerospace Engineering from MIT in 2023 and 2021, respectively.
 
 ---
 
-My research seeks to improve **safety** in robotics applications by studying the intersection of deep learning and control theory.
-Specifically, I am exploring the use of **reachability analysis** for certification and synthesis of closed-loop systems that use learned components for perception and/or control.
-The goal of my work is to develop autonomous systems capable of operating safely in uncertain and dynamic environments, such as those shared with humans or other autonomous agents.
+My research seeks to improve **safety** in aerospace and robotics applications by developing algorithms for path planning and control under uncertainty.
+I work on **distributionally robust control** for stochastic systems, often using **covariance steering** as an underlying tool. 
+My goal is to develop autonomous systems that can operate safely and efficiently in uncertain environments where safety is critical. 
+I am particularly interested in applying my work to space systems and planetary exploration.
 
-Prior to my arrival at MIT, I studied both geometric and adaptive control with Professor Venanzio Cichella in the University of Iowa's [Cooperative Autonomous Systems Lab](https://cichella.lab.uiowa.edu/).
-I also spent a summer working on applied robotics with Dr. Patrick Walters at the [Naval Surface Warefare Center Panama City Division](https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Panama-City/).
+Prior to joining ACL in fall 2023, I worked with Professor Kerri Cahoy in MIT's [Space, Telecommunications, Astronomy, and Radiation (STAR) Lab](https://aeroastro.mit.edu/starlab/). 
+While in STAR Lab, I studied underactuated control for CubeSats, on-orbit computer vision, and efficient algorithms for collocating weather data from different types of satellites.
 
 {% include homepage_feature_row %}
 
 ---
 
-Outside of research, I'm also a fellow in the [AeroAstro Communications Lab](https://mitcommlab.mit.edu/aeroastro/). 
-As a CommLab fellow, I help develop online resources and work with peers in one-on-one coaching sessions to help build technical communication skills within our department.
+Outside of research, I'm also involved in [AeroAstro departmental Resources for Easing Friction and Stress (dREFS)](https://aeroastro-refs.mit.edu/). As a dREFS, I'm trained in conflict resolution
+and volunteer as a peer facilitator helping other graduate students work through challenging situations and access on-campus resources.
 
 ---
 
